@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b4a808a1e2143f44881102bace34099d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sketch Gothic School
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f006b5d73e17e847a897f497e3ae576, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
